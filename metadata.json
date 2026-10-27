@@ -1,0 +1,7 @@
+{
+  "name": "RAKSHA",
+  "description": "Mobile-first personal safety platform with historical crime-risk maps, safer routing, digital fraud shield, and emergency SOS",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
